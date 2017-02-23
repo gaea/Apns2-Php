@@ -1,4 +1,11 @@
 # Apns2-Php
+
+## Requirements
+
+* PHP >= 5.5.24
+* curl >= 7.46.0 (with http/2 support enabled)
+* openssl >= 1.0.2e 
+* curl with http2 support (nghttp2)
  
 ## Getting Started
 
